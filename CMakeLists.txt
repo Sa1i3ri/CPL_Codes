@@ -3,7 +3,7 @@ project(CPL_Test_Code C)
 
 set(CMAKE_C_STANDARD 11)
 
-
+add_executable(test_git test_git.c)
 
 add_subdirectory(CPL2)
 add_subdirectory(CPL-0-intro)

@@ -1,13 +1,4 @@
 E:\Software\Toolbox\apps\CLion\ch-0\223.8214.51\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=E:/Software/Toolbox/apps/CLion/ch-0/223.8214.51/bin/ninja/win/ninja.exe -G Ninja -S "E:\CPL Codes\CPL-Test-Code" -B "E:\CPL Codes\CPL-Test-Code\cmake-build-debug"
 -- Configuring done
-CMake Error at homework10/CMakeLists.txt:5 (add_executable):
-  Cannot find source file:
-
-    string-hash2.c
-
-
-CMake Error at homework10/CMakeLists.txt:5 (add_executable):
-  No SOURCES given to target: string-hash2
-
-
-CMake Generate step failed.  Build files cannot be regenerated correctly.
+-- Generating done
+-- Build files have been written to: E:/CPL Codes/CPL-Test-Code/cmake-build-debug
