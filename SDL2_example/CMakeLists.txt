@@ -1,0 +1,8 @@
+add_executable(test test.c sever_test.c client.test.c)
+target_link_libraries(test mingw32)
+target_link_libraries(test SDL2main)
+target_link_libraries(test SDL2)
+target_link_libraries(test SDL2_image)
+target_link_libraries(test SDL2_ttf)
+link_libraries(ws2_32.dll)
+target_link_libraries(test ws2_32.dll)

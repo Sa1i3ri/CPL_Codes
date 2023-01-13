@@ -1,0 +1,101 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "integration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-integration-Debug-3951089315e9569d6d00.json",
+					"name" : "integration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "max::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-max-Debug-2e1fdafe91018e6d1afb.json",
+					"name" : "max",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pascal::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pascal-Debug-36572b72eb101e0e92f5.json",
+					"name" : "pascal",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "poi::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-poi-Debug-84fba1ae3c1ef315f949.json",
+					"name" : "poi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tiles::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tiles-Debug-1f95e44ad6fee34d4515.json",
+					"name" : "tiles",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "triangle::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-triangle-Debug-6e9f2a68c14796842c71.json",
+					"name" : "triangle",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/CPL Codes/CPL-Test-Code/homework6/cmake-build-debug",
+		"source" : "E:/CPL Codes/CPL-Test-Code/homework6"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

@@ -1,0 +1,101 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "homework4C::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-homework4C-Debug-b3de05fafcb022ea30cc.json",
+					"name" : "homework4C",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "life::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-life-Debug-029c71a034feff3870d4.json",
+					"name" : "life",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "matrix-mult::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-matrix-mult-Debug-c87d038d684ef87190eb.json",
+					"name" : "matrix-mult",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mines::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mines-Debug-6778dc5c7ef106b06989.json",
+					"name" : "mines",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sudoku::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sudoku-Debug-a08236595bd731ddf383.json",
+					"name" : "sudoku",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "trace::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-trace-Debug-84f58191b4ff05a69e4e.json",
+					"name" : "trace",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/CPL Codes/CPL-Test-Code/homework4/cmake-build-debug",
+		"source" : "E:/CPL Codes/CPL-Test-Code/homework4"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

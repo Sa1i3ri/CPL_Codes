@@ -1,0 +1,74 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "parse::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-parse-Debug-b054c7e894adbcbe2276.json",
+					"name" : "parse",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stringcat::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stringcat-Debug-669a6c738b569438482b.json",
+					"name" : "stringcat",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tokenizer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tokenizer-Debug-1772b4914b9ac9f120d6.json",
+					"name" : "tokenizer",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/CPL Codes/CPL-Test-Code/homework9/cmake-build-debug",
+		"source" : "E:/CPL Codes/CPL-Test-Code/homework9"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

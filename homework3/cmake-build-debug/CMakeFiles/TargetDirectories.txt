@@ -1,0 +1,9 @@
+E:/CPL Codes/CPL-Test-Code/homework3/cmake-build-debug/CMakeFiles/flip.dir
+E:/CPL Codes/CPL-Test-Code/homework3/cmake-build-debug/CMakeFiles/statistics.dir
+E:/CPL Codes/CPL-Test-Code/homework3/cmake-build-debug/CMakeFiles/josephus.dir
+E:/CPL Codes/CPL-Test-Code/homework3/cmake-build-debug/CMakeFiles/decimal.dir
+E:/CPL Codes/CPL-Test-Code/homework3/cmake-build-debug/CMakeFiles/palindrome.dir
+E:/CPL Codes/CPL-Test-Code/homework3/cmake-build-debug/CMakeFiles/Quick-sort.dir
+E:/CPL Codes/CPL-Test-Code/homework3/cmake-build-debug/CMakeFiles/Quick-sort2.dir
+E:/CPL Codes/CPL-Test-Code/homework3/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/CPL Codes/CPL-Test-Code/homework3/cmake-build-debug/CMakeFiles/rebuild_cache.dir

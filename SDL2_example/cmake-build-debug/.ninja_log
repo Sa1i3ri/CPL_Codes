@@ -1,0 +1,4 @@
+# ninja log v5
+2	333	6951032175947225	CMakeFiles/test.dir/test.c.obj	3793537cd00fc38b
+871	1045	6952033727633480	test.exe	1b3e1d0008dd63d9
+3	870	6952033725942751	CMakeFiles/test.dir/sever_test.c.obj	97e7c97c38c8628b

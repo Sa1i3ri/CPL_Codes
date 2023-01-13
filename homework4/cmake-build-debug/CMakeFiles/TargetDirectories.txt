@@ -1,0 +1,8 @@
+E:/CPL Codes/CPL-Test-Code/homework4/cmake-build-debug/CMakeFiles/sudoku.dir
+E:/CPL Codes/CPL-Test-Code/homework4/cmake-build-debug/CMakeFiles/mines.dir
+E:/CPL Codes/CPL-Test-Code/homework4/cmake-build-debug/CMakeFiles/trace.dir
+E:/CPL Codes/CPL-Test-Code/homework4/cmake-build-debug/CMakeFiles/homework4C.dir
+E:/CPL Codes/CPL-Test-Code/homework4/cmake-build-debug/CMakeFiles/life.dir
+E:/CPL Codes/CPL-Test-Code/homework4/cmake-build-debug/CMakeFiles/matrix-mult.dir
+E:/CPL Codes/CPL-Test-Code/homework4/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/CPL Codes/CPL-Test-Code/homework4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

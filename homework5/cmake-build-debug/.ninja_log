@@ -1,0 +1,9 @@
+# ninja log v5
+0	90	6889679004682356	CMakeFiles/behaviors.dir/behaviors.c.obj	ed5a1cacfcd5d849
+91	210	6889679005855424	behaviors.exe	8c87621435b7b9ea
+1	105	6889719450433244	CMakeFiles/absolute-prime.dir/absolute-prime.c.obj	9882fe3c6ae651f7
+2	108	6889684019423677	CMakeFiles/sum.dir/sum.c.obj	6918cf89374ebfd1
+105	247	6889719451806839	absolute-prime.exe	97d02f101b6278df
+108	249	6889684020827360	sum.exe	67ecb7a0e7b45560
+2	100	6889719060614549	CMakeFiles/test.dir/test.c.obj	da69cead017edfbe
+101	224	6889719061827727	test.exe	449594479df7f67d

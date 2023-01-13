@@ -1,0 +1,101 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "buddy2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-buddy2-Debug-99cc1b23c253e18c08bb.json",
+					"name" : "buddy2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fifa::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fifa-Debug-a212a8240751615e18ed.json",
+					"name" : "fifa",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "file-management::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-file-management-Debug-808a75bbb78ec19b560e.json",
+					"name" : "file-management",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "polynlist::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-polynlist-Debug-b1ff6b5adfebae2ca7d6.json",
+					"name" : "polynlist",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qianbao_de_bug::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qianbao_de_bug-Debug-61f0e1e719b79df77ae9.json",
+					"name" : "qianbao_de_bug",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "string-hash::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-string-hash-Debug-fbf92dde7d8a983b0ce1.json",
+					"name" : "string-hash",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/CPL Codes/CPL-Test-Code/homework10/cmake-build-debug",
+		"source" : "E:/CPL Codes/CPL-Test-Code/homework10"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

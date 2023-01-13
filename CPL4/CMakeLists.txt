@@ -1,0 +1,5 @@
+add_executable(stars stars.c)
+add_executable(primes primes.c)
+add_executable(binary_search binary_search.c)
+add_executable(digits digits.c)
+add_executable(selection_sort selection_sort.c)

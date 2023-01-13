@@ -1,0 +1,5 @@
+E:/CPL Codes/CPL-Test-Code/homework9/cmake-build-debug/CMakeFiles/tokenizer.dir
+E:/CPL Codes/CPL-Test-Code/homework9/cmake-build-debug/CMakeFiles/stringcat.dir
+E:/CPL Codes/CPL-Test-Code/homework9/cmake-build-debug/CMakeFiles/parse.dir
+E:/CPL Codes/CPL-Test-Code/homework9/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/CPL Codes/CPL-Test-Code/homework9/cmake-build-debug/CMakeFiles/rebuild_cache.dir

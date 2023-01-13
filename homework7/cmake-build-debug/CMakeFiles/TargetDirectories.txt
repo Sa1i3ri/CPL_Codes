@@ -1,0 +1,4 @@
+E:/CPL Codes/CPL-Test-Code/homework7/cmake-build-debug/CMakeFiles/wine.dir
+E:/CPL Codes/CPL-Test-Code/homework7/cmake-build-debug/CMakeFiles/cuboid.dir
+E:/CPL Codes/CPL-Test-Code/homework7/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/CPL Codes/CPL-Test-Code/homework7/cmake-build-debug/CMakeFiles/rebuild_cache.dir

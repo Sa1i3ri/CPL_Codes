@@ -1,0 +1,8 @@
+E:/CPL Codes/CPL-Test-Code/homework6/cmake-build-debug/CMakeFiles/pascal.dir
+E:/CPL Codes/CPL-Test-Code/homework6/cmake-build-debug/CMakeFiles/tiles.dir
+E:/CPL Codes/CPL-Test-Code/homework6/cmake-build-debug/CMakeFiles/poi.dir
+E:/CPL Codes/CPL-Test-Code/homework6/cmake-build-debug/CMakeFiles/max.dir
+E:/CPL Codes/CPL-Test-Code/homework6/cmake-build-debug/CMakeFiles/integration.dir
+E:/CPL Codes/CPL-Test-Code/homework6/cmake-build-debug/CMakeFiles/triangle.dir
+E:/CPL Codes/CPL-Test-Code/homework6/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/CPL Codes/CPL-Test-Code/homework6/cmake-build-debug/CMakeFiles/rebuild_cache.dir

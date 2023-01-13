@@ -1,0 +1,5 @@
+E:/CPL Codes/CPL-Test-Code/homework8/cmake-build-debug/CMakeFiles/interpreter.dir
+E:/CPL Codes/CPL-Test-Code/homework8/cmake-build-debug/CMakeFiles/substr.dir
+E:/CPL Codes/CPL-Test-Code/homework8/cmake-build-debug/CMakeFiles/substr2.dir
+E:/CPL Codes/CPL-Test-Code/homework8/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/CPL Codes/CPL-Test-Code/homework8/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,74 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "interpreter::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-interpreter-Debug-d4d2115bdfb6ed74941e.json",
+					"name" : "interpreter",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "substr::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-substr-Debug-86267fb11a54c7803811.json",
+					"name" : "substr",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "substr2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-substr2-Debug-db135395e26c61b438c3.json",
+					"name" : "substr2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/CPL Codes/CPL-Test-Code/homework8/cmake-build-debug",
+		"source" : "E:/CPL Codes/CPL-Test-Code/homework8"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
